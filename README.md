@@ -3,7 +3,7 @@
 
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=shibu778&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shibu778" /> </p> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shibu778&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="deymanoj" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=deymanoj&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="deymanoj" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63F73E&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manoj+Dey)](https://git.io/typing-svg)
 
