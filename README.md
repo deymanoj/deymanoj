@@ -28,13 +28,9 @@
 <!-- <p align="left"> <a href="https://twitter.com/@shibumeher2" target="blank"><img src="https://img.shields.io/twitter/follow/@shibumeher2?logo=twitter&style=for-the-badge" alt="@shibumeher2" /></a> </p> -->
 
 
-- 🔭 I’m currently working on **first principles study of point defects**
+- 🔭 I'm passionate about Materials Modeling for Optoelectronic, Catalytic, and Quantum Applications. 
 
-- 🌱 I’m currently learning **web development and scientific computing.**
-
-- 👯 I’m looking to collaborate on **first principle study of point defects in solids.**
-
-- 🤝 I’m looking for help with **scientific software development**
+- 🌱 Currently, I'm diving deep into the fascinating worlds of Machine Learning and Materials Informatics to enhance my research and development skills in these cutting-edge fields.
 
 <!-- - 👨‍💻 All of my projects are available at [https://shibumeher.netlify.app/](https://shibumeher.netlify.app/)
 
@@ -42,4 +38,4 @@
 
 - 📄 Know about my experiences [https://shibumeher.netlify.app/uploads/resume.pdf](https://shibumeher.netlify.app/uploads/resume.pdf) -->
 
-- ⚡ Fun fact **Most of our problem never occurs outside our mind &#128518;.**
+- ⚡ Feel free to connect me at manojdey.bcc@gmail.com
