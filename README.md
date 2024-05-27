@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63F73E&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manoj+Dey)](https://git.io/typing-svg)
 
-<h3>A passionate computational material scientist. I love learning new thing, teaching and solving problems.</h3>
+<h3>I am a Postdoctoral Researcher at the Novel Materials Discovery at the FHI Molecular Physics Department of the Max-Planck-Gesellschaft.</h3>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32F7DD&multiline=true&random=false&width=435&lines=A+passionate+computational+material+scientist.+I+love+learning+new+thing%2C+teaching+and+solving+problems.)](https://git.io/typing-svg) -->
 
